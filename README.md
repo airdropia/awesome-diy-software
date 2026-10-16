@@ -130,3 +130,5 @@ PRs to organize these resources are very welcome!
 
 -   [500 Lines or less](http://aosabook.org/en/index.html) Book with many small tutorials covering a wide range of topics
 -   [Project Based Learning](https://github.com/tuvtran/project-based-learning)
+
+- [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) — MIT-licensed, dependency-free Python pipeline that procedurally generates 7-layer shadow-box SVG mandalas (one file per physical layer) plus 6500px PNG renders, with quality gates and a static storefront; runs entirely on GitHub Actions.
