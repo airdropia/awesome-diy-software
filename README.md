@@ -30,6 +30,7 @@ What awesome-diy-software has in common:
 
 ## Interpreters: Lisp Based
 
+- [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) — Free in-browser memorial shadow box maker: type a pet's or someone's name and see the keepsake instantly, no signup. MIT-licensed, standard-library-only Python generator behind it that produces 7-layer shadow-box SVGs with an editable name plate. [Try the free maker](https://airdropia.github.io/auto-earn-engine/maker/)
 -   [Write You a Scheme](https://github.com/write-you-a-scheme-v2/scheme) Haskell to write a Scheme!
 -   [Build Your Own Lisp](http://www.buildyourownlisp.com/)
 -   [Scheme from Scratch](http://peter.michaux.ca/articles/scheme-from-scratch-introduction)
@@ -133,4 +134,3 @@ PRs to organize these resources are very welcome!
 
 
 
-- [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) — Free in-browser memorial shadow box maker: type a pet's or someone's name and see the keepsake instantly, no signup. MIT-licensed, standard-library-only Python generator behind it that ships 7-layer shadow-box SVGs with an editable name plate plus 6500px PNG renders. [Try the free maker](https://airdropia.github.io/auto-earn-engine/maker/).
