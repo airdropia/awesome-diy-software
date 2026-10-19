@@ -132,4 +132,5 @@ PRs to organize these resources are very welcome!
 -   [Project Based Learning](https://github.com/tuvtran/project-based-learning)
 
 
+
 - [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) — Free in-browser memorial shadow box maker: type a pet's or someone's name and see the keepsake instantly, no signup. MIT-licensed, standard-library-only Python generator behind it that ships 7-layer shadow-box SVGs with an editable name plate plus 6500px PNG renders. [Try the free maker](https://airdropia.github.io/auto-earn-engine/maker/).
